@@ -1,4 +1,4 @@
-=== GameStore ===
+=== Custom ===
 Contributors: Farid
 Tested up to: 6.4
 Requires at least: 6.4
@@ -33,7 +33,7 @@ For changelogs please see the Github repository.
 1.0.0 Initial release
 
 == Licence ==
-GameStore is distributed under the terms of the GNU GPL.
+Custom is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
